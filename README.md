@@ -3,6 +3,9 @@
 See a live version @ [`octobook.github.io/book-git-theme` »](http://octobook.github.io/book-git-theme)
 
 
+![](preview.png)
+
+
 ## Sources
 
 See the theme source in the mdBook
