@@ -11,7 +11,13 @@ layout: default
 {% for chapter in book.contents %}
   <a name="{{ chapter.num }}"></a>
   <h2>{{ chapter.title }}</h2><!-- use h2 - why? why not? -->
-  {{ chapter.content }}
+
+  <!-- note: for now assume content is in markdown (not HTML);
+        use markdownify to (auto-)convert to HTML
+    -->
+  {% if chapter.content %}
+    {{ chapter.content | markdownify }}
+  {% endif %}
 {% endfor %}
 
 </div>
