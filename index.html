@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% assign book  = site.data.book %}
+
+<div id="content" class="content">
+<h1>{{ book.title }}</h1>
+<p>by {{ book.author.name }}</p>
+
+{% for chapter in book.contents %}
+  <a name="{{ chapter.num }}"></a>
+  <h2>{{ chapter.title }}</h2><!-- use h2 - why? why not? -->
+  {{ chapter.content }}
+{% endfor %}
+
+</div>
