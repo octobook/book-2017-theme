@@ -1,9 +1,8 @@
 # Git Book Theme
 
-See a live version @ [`octobook.github.io/book-git-theme` »](http://octobook.github.io/book-git-theme)
-
-
 ![](preview.png)
+
+See a live version @ [`octobook.github.io/book-git-theme` »](http://octobook.github.io/book-git-theme)
 
 
 ## Sources
