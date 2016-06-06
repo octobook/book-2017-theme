@@ -5,7 +5,9 @@
 See a live version @ [`octobook.github.io/book-git-theme` »](http://octobook.github.io/book-git-theme)
 
 
-## Sources
+## Meta
+
+### Sources
 
 See the theme source in the mdBook
 repo @ [`azerupi/mdBook` »](https://github.com/azerupi/mdBook)
