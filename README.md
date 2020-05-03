@@ -2,7 +2,7 @@
 
 ![](preview.png)
 
-See a live version @ [`octobook.github.io/book-git-theme` »](http://octobook.github.io/book-git-theme)
+See a live version @ [`octobook.github.io/book-2017-theme` »](http://octobook.github.io/book-2017-theme/)
 
 
 ## Meta
